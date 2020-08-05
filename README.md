@@ -4,7 +4,7 @@
 - :seedling: I’m currently learning Java and Kotlin
 - :zap: I like :📱🏀 :computer:
 - :school: **Senior middle school** -> University
-<img src="https://i.loli.net/2020/08/05/fYHs8AWiXTQ2R3w.gif" style="zoom:50%;" />
+<img src="https://i.loli.net/2020/08/05/fYHs8AWiXTQ2R3w.gif" style="zoom:25%;" />
 ### How to reach me :beers:
 
 - :custard: ME [kurumit3(Gallifrey)(*小孔成像*)](https://www.kurumit3.top)
