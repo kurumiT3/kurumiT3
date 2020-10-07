@@ -25,7 +25,7 @@
 
 [![Twitter](https://img.shields.io/badge/dynamic/json?logo=twitter&label=Twitter&labelColor=282c34&suffix=+followers&color=1da1f2&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3DNightma34781407&longCache=true)](https://twitter.com/Nightma34781407)
 
-[![Instagram](https://img.shields.io/badge/dynamic/json?logo=instagram&logoColor=white&label=Instagram&labelColor=d7417b&suffix=+followers&color=282c34&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dinstagram%26queryKey%3Dnightmare_t3&longCache=true)](https://www.instagram.com/nightmare_t3)
+[![Instagram](https://img.shields.io/badge/dynamic/json?logo=instagram&logoColor=white&label=Instagram&labelColor=d7417b&suffix=+followers&color=282c34&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dinstagram%26queryKey%3Dkurumit3&longCache=true)](https://www.instagram.com/kurumit3/)
 
 QQ:1817855234
 
